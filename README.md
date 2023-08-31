@@ -7,7 +7,7 @@
 
 3- softsign function.
 
-4- softmax function.¶
+4- softmax function.
 
 5- tanh function.
 
